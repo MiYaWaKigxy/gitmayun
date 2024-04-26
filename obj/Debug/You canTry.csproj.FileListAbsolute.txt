@@ -1,0 +1,18 @@
+D:\VSCode\WPF\You canTry\bin\Debug\You canTry.exe.config
+D:\VSCode\WPF\You canTry\bin\Debug\You canTry.exe
+D:\VSCode\WPF\You canTry\bin\Debug\You canTry.pdb
+D:\VSCode\WPF\You canTry\obj\Debug\You canTry.csproj.AssemblyReference.cache
+D:\VSCode\WPF\You canTry\obj\Debug\You canTry.csproj.SuggestedBindingRedirects.cache
+D:\VSCode\WPF\You canTry\obj\Debug\MainWindow.g.cs
+D:\VSCode\WPF\You canTry\obj\Debug\App.g.cs
+D:\VSCode\WPF\You canTry\obj\Debug\You canTry_MarkupCompile.cache
+D:\VSCode\WPF\You canTry\obj\Debug\You canTry_MarkupCompile.lref
+D:\VSCode\WPF\You canTry\obj\Debug\MainWindow.baml
+D:\VSCode\WPF\You canTry\obj\Debug\You canTry.g.resources
+D:\VSCode\WPF\You canTry\obj\Debug\You_canTry.Properties.Resources.resources
+D:\VSCode\WPF\You canTry\obj\Debug\You canTry.csproj.GenerateResource.cache
+D:\VSCode\WPF\You canTry\obj\Debug\You canTry.csproj.CoreCompileInputs.cache
+D:\VSCode\WPF\You canTry\obj\Debug\You canTry.exe
+D:\VSCode\WPF\You canTry\obj\Debug\You canTry.pdb
+D:\VSCode\WPF\You canTry\obj\Debug\MyScrollbar.baml
+D:\VSCode\WPF\You canTry\obj\Debug\App.baml
